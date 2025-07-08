@@ -7,7 +7,6 @@
 ## 🧠 Current Learning
 - Python Programming
 - Machine Learning with scikit-learn
-- Data Analysis using Pandas & Matplotlib
 - Basics of Deep Learning
 
 ## 🚀 Projects
